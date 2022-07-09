@@ -1,0 +1,33 @@
+#a{
+    display: flex;
+}
+#c{
+    text-align: center;
+    background-color: wheat;
+}
+#d{
+    font-size: 60px;
+}
+#e{
+    margin: 15em;
+}
+#f{
+    display: flex;
+}
+label{
+    margin-right: 10px;
+}
+h2{
+    font-size: 100px;
+    font-family: 'Pacifico', cursive;
+}
+label{
+    font-size: 25px;
+}
+#b{
+
+}
+.h{
+    color: black;
+    font-size: 18px;
+}
